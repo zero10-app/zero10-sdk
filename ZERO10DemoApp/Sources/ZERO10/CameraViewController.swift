@@ -164,6 +164,8 @@ class CameraViewController: UIViewController, CameraUI {
     func hideSkeleton() {}
 
     func trackingDidStart() {}
+
+    func registerFrame() {}
 }
 
 extension CameraViewController: ContentRecordingDelegate {

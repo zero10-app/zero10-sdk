@@ -10,7 +10,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ZERO10SDK",
-            url: "https://cdn.010.community/storage/ZERO10SDK_1.0.0.zip",
+            url: "https://cdn.010.community/storage/ZERO10SDK_1.0.1.zip",
             checksum: "d1052b12de92ce5536b84979b9b985e39ccd748a304c181dc95da82f8bfdb713"
         ),
     ]
